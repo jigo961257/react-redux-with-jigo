@@ -1,3 +1,8 @@
+Index Content
+    1) Purpose
+    2) Example
+    3) Installation
+
 ### First react Redux Demo
     In this demo we will use the redux with react-redux static example for the learning purpose.
 
