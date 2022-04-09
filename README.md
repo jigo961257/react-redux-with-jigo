@@ -1,7 +1,7 @@
 Index Content
-    1) [Purpose](First react Redux Demo)
-    2) Example
-    3) Installation
+    1) [Purpose](https://github.com/jigo961257/react-redux-with-jigo/tree/dev#first-react-redux-demo)
+    2) [Example](https://github.com/jigo961257/react-redux-with-jigo/tree/dev#project-download)
+    3) [Installation](https://github.com/jigo961257/react-redux-with-jigo/tree/dev#project-config-info)
 
 ### First react Redux Demo
     In this demo we will use the redux with react-redux static example for the learning purpose.
